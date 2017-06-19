@@ -32,7 +32,7 @@ title : Dream & Life
 tagline: Jinke He's personal Blog
 assets: /assets
 baseurl:
-
+production_url: dream-life.me
 #### Language
 language: en    ## blog site languages: en, zh-CN, zh-TW
 
