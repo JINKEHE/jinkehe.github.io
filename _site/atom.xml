@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Dream &amp; Life</title>
- <link href="" rel="self"/>
- <link href=""/>
- <updated>2017-06-19T01:22:19+08:00</updated>
- <id></id>
+ <link href="dream-life.me" rel="self"/>
+ <link href="dream-life.me"/>
+ <updated>2017-06-19T19:41:46+08:00</updated>
+ <id>dream-life.me</id>
  <author>
    <name>Jinke He</name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Hello World</title>
-   <link href="/2017/06/17/hello-world"/>
+   <link href="dream-life.me/2017/06/17/hello-world"/>
    <updated>2017-06-17T00:00:00+08:00</updated>
-   <id>/2017/06/17/hello-world</id>
+   <id>dream-life.me/2017/06/17/hello-world</id>
    <content type="html">&lt;h2&gt;Hello World&lt;/h2&gt;
 &lt;p&gt;This is my first article&lt;/p&gt;
 </content>
@@ -24,9 +24,9 @@
  
  <entry>
    <title>如何使用 Jacman 主题</title>
-   <link href="/jekyll/2015/09/20/how-to-use-jacman"/>
+   <link href="dream-life.me/jekyll/2015/09/20/how-to-use-jacman"/>
    <updated>2015-09-20T00:00:00+08:00</updated>
-   <id>/jekyll/2015/09/20/how-to-use-jacman</id>
+   <id>dream-life.me/jekyll/2015/09/20/how-to-use-jacman</id>
    <content type="html">&lt;h2 id=&quot;主题介绍&quot;&gt;主题介绍&lt;/h2&gt;
 &lt;p&gt;Jekyll-Jacman 是为 &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; 设计的一款清新且具有响应式的主题，拥有更丰富的特性并支持了很多的国内服务。Jacman 始于 &lt;a href=&quot;https://github.com/wuchong/jacman&quot;&gt;Jacman&lt;/a&gt; 移植而来。&lt;/p&gt;
 
@@ -299,9 +299,9 @@ photos:
  
  <entry>
    <title>Emoji Test</title>
-   <link href="/2015/09/19/emoji-test"/>
+   <link href="dream-life.me/2015/09/19/emoji-test"/>
    <updated>2015-09-19T00:00:00+08:00</updated>
-   <id>/2015/09/19/emoji-test</id>
+   <id>dream-life.me/2015/09/19/emoji-test</id>
    <content type="html">&lt;p&gt;This is an emoji test. :smile:&lt;/p&gt;
 
 &lt;p&gt;:bowtie::smile::laughing::blush::smiley::relaxed::smirk:
@@ -311,9 +311,9 @@ photos:
  
  <entry>
    <title>Gallery Post</title>
-   <link href="/photo/2014/11/18/gallery-post"/>
+   <link href="dream-life.me/photo/2014/11/18/gallery-post"/>
    <updated>2014-11-18T23:45:20+08:00</updated>
-   <id>/photo/2014/11/18/gallery-post</id>
+   <id>dream-life.me/photo/2014/11/18/gallery-post</id>
    <content type="html">&lt;p&gt;Nunc dignissim volutpat enim, non sollicitudin purus dignissim id. Nam sit amet urna eu velit lacinia eleifend. Proin auctor rhoncus ligula nec aliquet. Donec sodales molestie lacinia. Curabitur dictum faucibus urna at convallis. Aliquam in lectus at urna rutrum porta. In lacus arcu, molestie ut vestibulum ut, rhoncus sed eros. Sed et elit vitae risus pretium consectetur vel in mi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi tempus turpis quis lectus rhoncus adipiscing. Proin pulvinar placerat suscipit. Maecenas imperdiet, quam vitae varius auctor, enim mauris vulputate sapien, nec laoreet neque diam non quam.&lt;/p&gt;
 
 &lt;!-- more --&gt;
@@ -326,9 +326,9 @@ photos:
  
  <entry>
    <title>MathJax with Jekyll</title>
-   <link href="/opinion/2014/02/16/Mathjax-with-jekyll"/>
+   <link href="dream-life.me/opinion/2014/02/16/Mathjax-with-jekyll"/>
    <updated>2014-02-16T00:00:00+08:00</updated>
-   <id>/opinion/2014/02/16/Mathjax-with-jekyll</id>
+   <id>dream-life.me/opinion/2014/02/16/Mathjax-with-jekyll</id>
    <content type="html">&lt;p&gt;One of the rewards of switching my website to &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; is the
 ability to support &lt;strong&gt;MathJax&lt;/strong&gt;, which means I can write LaTeX-like equations that get
 nicely displayed in a web browser, like this one \( \sqrt{\frac{n!}{k!(n-k)!}} \) or
@@ -415,9 +415,9 @@ underscores with a backslash like so &lt;code class=&quot;highlighter-rouge&quot
  
  <entry>
    <title>Images</title>
-   <link href="/2013/12/27/images"/>
+   <link href="dream-life.me/2013/12/27/images"/>
    <updated>2013-12-27T06:46:49+08:00</updated>
-   <id>/2013/12/27/images</id>
+   <id>dream-life.me/2013/12/27/images</id>
    <content type="html">&lt;p&gt;This is a image test post.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://ww1.sinaimg.cn/mw690/81b78497jw1emfgwkasznj21hc0u0qb7.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
@@ -432,9 +432,9 @@ underscores with a backslash like so &lt;code class=&quot;highlighter-rouge&quot
  
  <entry>
    <title>Excerpts</title>
-   <link href="/2013/12/25/excerpts"/>
+   <link href="dream-life.me/2013/12/25/excerpts"/>
    <updated>2013-12-25T08:23:23+08:00</updated>
-   <id>/2013/12/25/excerpts</id>
+   <id>dream-life.me/2013/12/25/excerpts</id>
    <content type="html">&lt;p&gt;The following contents should be invisible in home/archive page.&lt;/p&gt;
 
 &lt;!-- more --&gt;
@@ -447,9 +447,9 @@ underscores with a backslash like so &lt;code class=&quot;highlighter-rouge&quot
  
  <entry>
    <title>Block</title>
-   <link href="/2013/12/25/block"/>
+   <link href="dream-life.me/2013/12/25/block"/>
    <updated>2013-12-25T08:14:39+08:00</updated>
-   <id>/2013/12/25/block</id>
+   <id>dream-life.me/2013/12/25/block</id>
    <content type="html">&lt;p&gt;This post is used for testing tag plugins. See &lt;a href=&quot;http://zespia.tw/hexo/docs/tag-plugins.html&quot;&gt;docs&lt;/a&gt; for more info.&lt;/p&gt;
 
 &lt;h2 id=&quot;block-quote&quot;&gt;Block Quote&lt;/h2&gt;
@@ -498,9 +498,9 @@ underscores with a backslash like so &lt;code class=&quot;highlighter-rouge&quot
  
  <entry>
    <title>中文測試</title>
-   <link href="/2013/12/25/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6"/>
+   <link href="dream-life.me/2013/12/25/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6"/>
    <updated>2013-12-25T07:31:30+08:00</updated>
-   <id>/2013/12/25/中文測試</id>
+   <id>dream-life.me/2013/12/25/中文測試</id>
    <content type="html">&lt;p&gt;This is a Chinese test post.&lt;/p&gt;
 
 &lt;p&gt;善我王上魚、產生資西員合兒臉趣論。畫衣生這著爸毛親可時，安程幾？合學作。觀經而作建。都非子作這！法如言子你關！手師也。&lt;/p&gt;
@@ -521,45 +521,45 @@ underscores with a backslash like so &lt;code class=&quot;highlighter-rouge&quot
  
  <entry>
    <title>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam justo turpis, tincidunt ac convallis id.</title>
-   <link href="/2013/12/25/long-title"/>
+   <link href="dream-life.me/2013/12/25/long-title"/>
    <updated>2013-12-25T07:31:06+08:00</updated>
-   <id>/2013/12/25/long-title</id>
+   <id>dream-life.me/2013/12/25/long-title</id>
    <content type="html">&lt;p&gt;This post has a long title. Make sure the title displayed right.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Categories</title>
-   <link href="/foo/bar/baz/2013/12/25/categories"/>
+   <link href="dream-life.me/foo/bar/baz/2013/12/25/categories"/>
    <updated>2013-12-25T07:30:09+08:00</updated>
-   <id>/foo/bar/baz/2013/12/25/categories</id>
+   <id>dream-life.me/foo/bar/baz/2013/12/25/categories</id>
    <content type="html">&lt;p&gt;This post contains 3 categories. Make sure your theme can display all of the categories.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Link Post</title>
-   <link href="/2013/12/25/link-post"/>
+   <link href="dream-life.me/2013/12/25/link-post"/>
    <updated>2013-12-25T07:30:04+08:00</updated>
-   <id>/2013/12/25/link-post</id>
+   <id>dream-life.me/2013/12/25/link-post</id>
    <content type="html">&lt;p&gt;This is a link post. Clicking on the link should open &lt;a href=&quot;http://www.google.com/&quot;&gt;Google&lt;/a&gt; in a new tab or window.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Tags</title>
-   <link href="/2013/12/25/tags"/>
+   <link href="dream-life.me/2013/12/25/tags"/>
    <updated>2013-12-25T07:29:53+08:00</updated>
-   <id>/2013/12/25/tags</id>
+   <id>dream-life.me/2013/12/25/tags</id>
    <content type="html">&lt;p&gt;This post contains 3 tags. Make sure your theme can display all of the tags.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Elements</title>
-   <link href="/2013/12/25/elements"/>
+   <link href="dream-life.me/2013/12/25/elements"/>
    <updated>2013-12-25T07:29:08+08:00</updated>
-   <id>/2013/12/25/elements</id>
+   <id>dream-life.me/2013/12/25/elements</id>
    <content type="html">&lt;p&gt;The purpose of this post is to help you make sure all of HTML elements can display properly. If you use CSS reset, don’t forget to redefine the style by yourself.&lt;/p&gt;
 
 &lt;hr /&gt;

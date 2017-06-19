@@ -3,10 +3,10 @@
 <channel>
         <title>Dream &amp; Life</title>
         <description>Dream &amp; Life - Jinke He</description>
-        <link></link>
-        <atom:link href="" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 19 Jun 2017 01:22:19 +0800</lastBuildDate>
-        <pubDate>Mon, 19 Jun 2017 01:22:19 +0800</pubDate>
+        <link>dream-life.me</link>
+        <atom:link href="dream-life.me" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Mon, 19 Jun 2017 19:41:46 +0800</lastBuildDate>
+        <pubDate>Mon, 19 Jun 2017 19:41:46 +0800</pubDate>
         <ttl>60</ttl>
 
 
@@ -15,8 +15,8 @@
                 <description>&lt;h2&gt;Hello World&lt;/h2&gt;
 &lt;p&gt;This is my first article&lt;/p&gt;
 </description>
-                <link>/2017/06/17/hello-world</link>
-                <guid>/2017/06/17/hello-world</guid>
+                <link>dream-life.me/2017/06/17/hello-world</link>
+                <guid>dream-life.me/2017/06/17/hello-world</guid>
                 <pubDate>Sat, 17 Jun 2017 00:00:00 +0800</pubDate>
         </item>
 
@@ -290,8 +290,8 @@ photos:
   &lt;/li&gt;
 &lt;/ul&gt;
 </description>
-                <link>/jekyll/2015/09/20/how-to-use-jacman</link>
-                <guid>/jekyll/2015/09/20/how-to-use-jacman</guid>
+                <link>dream-life.me/jekyll/2015/09/20/how-to-use-jacman</link>
+                <guid>dream-life.me/jekyll/2015/09/20/how-to-use-jacman</guid>
                 <pubDate>Sun, 20 Sep 2015 00:00:00 +0800</pubDate>
         </item>
 
@@ -302,8 +302,8 @@ photos:
 &lt;p&gt;:bowtie::smile::laughing::blush::smiley::relaxed::smirk:
 :heart_eyes::kissing_heart::kissing_closed_eyes::flushed::relieved::satisfied::grin:&lt;/p&gt;
 </description>
-                <link>/2015/09/19/emoji-test</link>
-                <guid>/2015/09/19/emoji-test</guid>
+                <link>dream-life.me/2015/09/19/emoji-test</link>
+                <guid>dream-life.me/2015/09/19/emoji-test</guid>
                 <pubDate>Sat, 19 Sep 2015 00:00:00 +0800</pubDate>
         </item>
 
@@ -317,8 +317,8 @@ photos:
 
 &lt;p&gt;Etiam luctus mauris at mi sollicitudin quis malesuada nibh porttitor. Vestibulum non dapibus magna. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin feugiat hendrerit viverra. Phasellus sit amet nunc mauris, eu ultricies tellus. Sed a mi tortor, eleifend varius erat. Proin consectetur molestie tortor eu gravida. Cras placerat orci id arcu tristique ut rutrum justo pulvinar. Maecenas lacinia fringilla diam non bibendum. Aenean vel viverra turpis. Integer ut leo nisi. Pellentesque vehicula quam ut sapien convallis consequat. Aliquam ut arcu purus, eget tempor purus. Integer eu tellus quis erat tristique gravida eu vel lorem.&lt;/p&gt;
 </description>
-                <link>/photo/2014/11/18/gallery-post</link>
-                <guid>/photo/2014/11/18/gallery-post</guid>
+                <link>dream-life.me/photo/2014/11/18/gallery-post</link>
+                <guid>dream-life.me/photo/2014/11/18/gallery-post</guid>
                 <pubDate>Tue, 18 Nov 2014 23:45:20 +0800</pubDate>
         </item>
 
@@ -406,8 +406,8 @@ underscores with a backslash like so &lt;code class=&quot;highlighter-rouge&quot
 
 &lt;p&gt;\[ \mathbf{X}_{n,p} = \mathbf{A}_{n,k} \mathbf{B}_{k,p} \]&lt;/p&gt;
 </description>
-                <link>/opinion/2014/02/16/Mathjax-with-jekyll</link>
-                <guid>/opinion/2014/02/16/Mathjax-with-jekyll</guid>
+                <link>dream-life.me/opinion/2014/02/16/Mathjax-with-jekyll</link>
+                <guid>dream-life.me/opinion/2014/02/16/Mathjax-with-jekyll</guid>
                 <pubDate>Sun, 16 Feb 2014 00:00:00 +0800</pubDate>
         </item>
 
@@ -423,8 +423,8 @@ underscores with a backslash like so &lt;code class=&quot;highlighter-rouge&quot
 
 &lt;p&gt;&lt;img src=&quot;http://placehold.it/350x150.jpg&quot; alt=&quot;Small Picture&quot; /&gt;&lt;/p&gt;
 </description>
-                <link>/2013/12/27/images</link>
-                <guid>/2013/12/27/images</guid>
+                <link>dream-life.me/2013/12/27/images</link>
+                <guid>dream-life.me/2013/12/27/images</guid>
                 <pubDate>Fri, 27 Dec 2013 06:46:49 +0800</pubDate>
         </item>
 
@@ -438,8 +438,8 @@ underscores with a backslash like so &lt;code class=&quot;highlighter-rouge&quot
 
 &lt;p&gt;Sed lorem felis, congue non fringilla eu, aliquam eu eros. Curabitur orci libero, mollis sed semper vitae, adipiscing in lectus. Aenean non egestas odio. Donec sollicitudin nisi quis lorem gravida, in pharetra mauris fringilla. Duis sit amet faucibus dolor, id aliquam neque. In egestas, odio gravida tempor dictum, mauris felis faucibus purus, sit amet commodo lacus diam vitae est. Ut ut quam eget massa semper sodales. Aenean non ipsum cursus, blandit lectus in, ornare odio. Curabitur ultrices porttitor vulputate.&lt;/p&gt;
 </description>
-                <link>/2013/12/25/excerpts</link>
-                <guid>/2013/12/25/excerpts</guid>
+                <link>dream-life.me/2013/12/25/excerpts</link>
+                <guid>dream-life.me/2013/12/25/excerpts</guid>
                 <pubDate>Wed, 25 Dec 2013 08:23:23 +0800</pubDate>
         </item>
 
@@ -489,8 +489,8 @@ underscores with a backslash like so &lt;code class=&quot;highlighter-rouge&quot
 &lt;script src=&quot;https://gist.github.com/996818.js&quot;&gt; &lt;/script&gt;
 
 </description>
-                <link>/2013/12/25/block</link>
-                <guid>/2013/12/25/block</guid>
+                <link>dream-life.me/2013/12/25/block</link>
+                <guid>dream-life.me/2013/12/25/block</guid>
                 <pubDate>Wed, 25 Dec 2013 08:14:39 +0800</pubDate>
         </item>
 
@@ -512,8 +512,8 @@ underscores with a backslash like so &lt;code class=&quot;highlighter-rouge&quot
 
 &lt;p&gt;&lt;em&gt;From &lt;a href=&quot;http://www.richyli.com/tool/loremipsum/&quot;&gt;亂數假文產生器 - Chinese Lorem Ipsum&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 </description>
-                <link>/2013/12/25/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6</link>
-                <guid>/2013/12/25/中文測試</guid>
+                <link>dream-life.me/2013/12/25/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6</link>
+                <guid>dream-life.me/2013/12/25/中文測試</guid>
                 <pubDate>Wed, 25 Dec 2013 07:31:30 +0800</pubDate>
         </item>
 
@@ -521,8 +521,8 @@ underscores with a backslash like so &lt;code class=&quot;highlighter-rouge&quot
                 <title>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam justo turpis, tincidunt ac convallis id.</title>
                 <description>&lt;p&gt;This post has a long title. Make sure the title displayed right.&lt;/p&gt;
 </description>
-                <link>/2013/12/25/long-title</link>
-                <guid>/2013/12/25/long-title</guid>
+                <link>dream-life.me/2013/12/25/long-title</link>
+                <guid>dream-life.me/2013/12/25/long-title</guid>
                 <pubDate>Wed, 25 Dec 2013 07:31:06 +0800</pubDate>
         </item>
 
@@ -530,8 +530,8 @@ underscores with a backslash like so &lt;code class=&quot;highlighter-rouge&quot
                 <title>Categories</title>
                 <description>&lt;p&gt;This post contains 3 categories. Make sure your theme can display all of the categories.&lt;/p&gt;
 </description>
-                <link>/foo/bar/baz/2013/12/25/categories</link>
-                <guid>/foo/bar/baz/2013/12/25/categories</guid>
+                <link>dream-life.me/foo/bar/baz/2013/12/25/categories</link>
+                <guid>dream-life.me/foo/bar/baz/2013/12/25/categories</guid>
                 <pubDate>Wed, 25 Dec 2013 07:30:09 +0800</pubDate>
         </item>
 
@@ -539,8 +539,8 @@ underscores with a backslash like so &lt;code class=&quot;highlighter-rouge&quot
                 <title>Link Post</title>
                 <description>&lt;p&gt;This is a link post. Clicking on the link should open &lt;a href=&quot;http://www.google.com/&quot;&gt;Google&lt;/a&gt; in a new tab or window.&lt;/p&gt;
 </description>
-                <link>/2013/12/25/link-post</link>
-                <guid>/2013/12/25/link-post</guid>
+                <link>dream-life.me/2013/12/25/link-post</link>
+                <guid>dream-life.me/2013/12/25/link-post</guid>
                 <pubDate>Wed, 25 Dec 2013 07:30:04 +0800</pubDate>
         </item>
 
@@ -548,8 +548,8 @@ underscores with a backslash like so &lt;code class=&quot;highlighter-rouge&quot
                 <title>Tags</title>
                 <description>&lt;p&gt;This post contains 3 tags. Make sure your theme can display all of the tags.&lt;/p&gt;
 </description>
-                <link>/2013/12/25/tags</link>
-                <guid>/2013/12/25/tags</guid>
+                <link>dream-life.me/2013/12/25/tags</link>
+                <guid>dream-life.me/2013/12/25/tags</guid>
                 <pubDate>Wed, 25 Dec 2013 07:29:53 +0800</pubDate>
         </item>
 
@@ -640,8 +640,8 @@ underscores with a backslash like so &lt;code class=&quot;highlighter-rouge&quot
 
 &lt;p&gt;Lorem &lt;sup&gt;superscript&lt;/sup&gt; dolor &lt;sub&gt;subscript&lt;/sub&gt; amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. &lt;cite&gt;cite&lt;/cite&gt;. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. &lt;acronym title=&quot;National Basketball Association&quot;&gt;NBA&lt;/acronym&gt; Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.  &lt;abbr title=&quot;Avenue&quot;&gt;AVE&lt;/abbr&gt;&lt;/p&gt;
 </description>
-                <link>/2013/12/25/elements</link>
-                <guid>/2013/12/25/elements</guid>
+                <link>dream-life.me/2013/12/25/elements</link>
+                <guid>dream-life.me/2013/12/25/elements</guid>
                 <pubDate>Wed, 25 Dec 2013 07:29:08 +0800</pubDate>
         </item>
 
