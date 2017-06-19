@@ -53,7 +53,6 @@ widgets:
 - category
 - tag
 - links
-- github-card
 ## provide seven widgets:github-card,category,tag,rss,archive,tagcloud,links,weibo,douban
 
 
@@ -63,7 +62,7 @@ widgets:
 #### Image
 imglogo:
   enable: true             ## display image logo true/false.
-  src: img/logo.png        ## `.svg` and `.png` are recommended,please put image into the theme folder `/jacman/source/img`.
+  src: img/logo.svg        ## `.svg` and `.png` are recommended,please put image into the theme folder `/jacman/source/img`.
 favicon: img/favicon.ico   ## size:32px*32px,`.ico` is recommended,please put image into the theme folder `/jacman/source/img`.
 apple_icon: img/jacman.jpg ## size:114px*114px,please put image into the theme folder `/jacman/source/img`.
 author_img: img/author.jpg ## size:220px*220px.display author avatar picture.if don't want to display,please don't set this.
@@ -82,15 +81,15 @@ share_to: true #enable share-to buttons if true
 author:
   name: Jinke He      ## e.g. wuchong Author name
   intro_line1:  "Hello ,I'm Jinke He, a year 3 student in University Of Liverpool."    ## your introduction on the bottom of the page
-  intro_line2:  "Thank you for visiting my blog."  ## the 2nd line
+  intro_line2:  "Welcome to my blog :)"  ## the 2nd line
   weibo:      ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
   weibo_verifier:  ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
   tsina:      ## e.g. 2176287895  Your weibo ID,It will be used in share button.
   douban:     ## e.g. wuchong1014 or your id for https://www.douban.com/people/wuchong1014
   zhihu:      ## e.g. jark  for http://www.zhihu.com/people/jark
-  email:      ## e.g. imjark@gmail.com
+  email: J.He26@student.liverpool.ac.uk ## e.g. imjark@gmail.com
   twitter:    ## e.g. jarkwu for https://twitter.com/jarkwu
-  github:     ## e.g. wuchong for https://github.com/wuchong
+  github: https://github.com/JINKEHE/ ## e.g. wuchong for https://github.com/wuchong
   facebook:   ## e.g. imjark for https://facebook.com/imjark
   linkedin:   ## e.g. wuchong1014 for https://www.linkedin.com/in/wuchong1014
   google_plus:    ## e.g. "111190881341800841449" for https://plus.google.com/u/0/111190881341800841449, the "" is needed!
@@ -106,7 +105,7 @@ toc:
 
 #### Links
 links:
-##码农圈: https://coderq.com
+  yitao's blog: http://simpleyyt.github.io/
 
 #### Comment
 duoshuo_shortname:    ## e.g. wuchong   your duoshuo short name.       website: http://duoshuo.com
