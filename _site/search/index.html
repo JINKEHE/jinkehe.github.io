@@ -75,19 +75,40 @@
 					
 					<li>
  					
-					<form class="search" action="//google.com/search" method="get" accept-charset="utf-8">
+					<form class="search" action="/search/" method="get" accept-charset="utf-8">
 						<label>Search</label>
-						<input type="search" id="search" name="q" autocomplete="off" maxlength="20" placeholder="Search" />
-						<input type="hidden" name="q" value="site:">
+						<input type="search" id="search" autocomplete="off" name="q" maxlength="20" placeholder="Search" />
 					</form>
 					
 					</li>
 				</ul>
 			</nav>	
 </div>
+
       </header>
       <div id="container">
       
+<div  id="main" class="page">
+  <div id='cse' style='width:100%;text-align:center'>Loading, please wait.</div>
+</div>
+<script src="http://www.google.com.hk/jsapi" type="text/javascript"></script>
+<script type="text/javascript">
+google.load('search', '1', {language : 'zh-CN',style: google.loader.themes.MINIMALIST});
+google.setOnLoadCallback(function(){
+  var customSearchControl = new google.search.CustomSearchControl('007885238574168947489:pfeie59ehku');
+  customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+  var options = new google.search.DrawOptions();
+  options.setAutoComplete(true);
+  customSearchControl.draw('cse', options);
+  var match = location.search.match(/q=([^&]*)(&|$)/);
+  if(match && match[1]){
+    var search = decodeURIComponent(match[1]); 
+    customSearchControl.execute(search);
+  }
+},true);
+</script>
+
+
       </div>
       <footer><div id="footer" >
 	
@@ -131,7 +152,7 @@
 				-->
 
 		<p class="copyright">
-		Created by <b target="_blank"> Jinke He </b>Powered by <a href="http://jekyllrb.com" target="_blank" title="jekyll">jekyll</a> and Theme by <a href="https://github.com/simpleyyt/jekyll-jacman" target="_blank" title="Jacman">Jacman</a> © 2017 
+		Powered by <a href="http://jekyllrb.com" target="_blank" title="jekyll">jekyll</a> and Theme by <a href="https://github.com/simpleyyt/jekyll-jacman" target="_blank" title="Jacman">Jacman</a> © 2017 
 		
 		<a href="about" target="_blank" title="Jinke He">Jinke He</a>
 		
@@ -316,4 +337,5 @@ $(document).ready(function(){
 <!-- Tiny_search End -->
     </body>
    </html>
+
 
