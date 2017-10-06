@@ -91,7 +91,7 @@ author:
   twitter:    ## e.g. jarkwu for https://twitter.com/jarkwu
   github: https://github.com/JINKEHE/ ## e.g. wuchong for https://github.com/wuchong
   facebook:   ## e.g. imjark for https://facebook.com/imjark
-  linkedin:   ## e.g. wuchong1014 for https://www.linkedin.com/in/wuchong1014
+  linkedin:   https://www.linkedin.com/in/jinke-he-9ba620b0/ ## e.g. wuchong1014 for https://www.linkedin.com/in/wuchong1014
   google_plus:    ## e.g. "111190881341800841449" for https://plus.google.com/u/0/111190881341800841449, the "" is needed!
   stackoverflow:  ## e.g. 3222790 for http://stackoverflow.com/users/3222790/jark
 ## if you set them, the corresponding  share button will show on the footer
@@ -105,7 +105,6 @@ toc:
 
 #### Links
 links:
-  yitao's blog: http://simpleyyt.github.io/
 
 #### Comment
 duoshuo_shortname:    ## e.g. wuchong   your duoshuo short name.       website: http://duoshuo.com
