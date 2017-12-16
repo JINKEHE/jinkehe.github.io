@@ -4,15 +4,18 @@ title: "Tmux tutorial"
 categories: Tutorials
 ---
 
-#### tmux is a software application that can be used to multiplex several virtual consoles, allowing a user to access multiple separate terminal sessions inside a single terminal window or remote terminal session.  
+tmux is a software application that can be used to multiplex several virtual consoles, allowing a user to access multiple separate terminal sessions inside a single terminal window or remote terminal session.  
 
 -----
 
 **Before entering tmux (in terminal)**
 
 `tmux ls` = show all the sessions  
+
 `tmux a -t [session name]`= attach to a tmux session  
+
 `tmux new -s [session name]` = create a new session  
+
 `tmux rename -t [session old name] [session new name]` = rename a session  
 
 -----
@@ -36,7 +39,7 @@ categories: Tutorials
 
 `C-a` + `%` = vertical split
 
-`C-a` + `"` = horizontal split
+`C-a` + `"` = horizontal split  
 
 ---
 ### References
