@@ -2,6 +2,7 @@
 layout: post
 title: "Tmux tutorial"
 categories: Tutorials
+description: a tutorial on tmux
 ---
 
 tmux is a software application that can be used to multiplex several virtual consoles, allowing a user to access multiple separate terminal sessions inside a single terminal window or remote terminal session.  
