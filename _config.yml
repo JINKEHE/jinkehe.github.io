@@ -16,6 +16,9 @@ permalink: blog/:year/:month/:title
 job.title: "Master student at University of Oxford"
 excerpt_separator: "<!--more-->"
 
+includes:
+- assets
+
 # SEO stuff
 # google_author: ""
 # google_site_verification: ""
