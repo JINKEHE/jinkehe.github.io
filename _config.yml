@@ -1,9 +1,7 @@
 # Site settings
 title: Jinke He
 email: jinkehe1996@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-These violent delights have violent ends.
-  
+description: These violent delights have violent ends. 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://jinkehe.github.io/" # the base hostname & protocol for your site
 twitter_username: 
