@@ -1,6 +1,7 @@
 # Site settings
 title: Jinke He
 email: jinkehe1996@gmail.com
+email2: jinke.he@trinity.ox.ac.uk
 description: These violent delights have violent ends. 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://jinkehe.github.io/" # the base hostname & protocol for your site
