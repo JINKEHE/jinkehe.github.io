@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-{% include image.html url="/assets/me.jpg" caption="hmmthatsme" width=300 align="right" %}
+{% include image.html url="/assets/me.jpg" caption="" width=300 align="right" %}
 
 From October 2018, I will be a master student in Computer Science at University of Oxford. I am interested in Artificial Intelligence, especially Reinforcement Learning.
