@@ -4,8 +4,8 @@ title: CV
 permalink: /cv/
 ---
 
+<iframe src="/assets/resume_jinkehe.pdf" class="gde-frame" style="height: 1000px; width: 100%; border: none;" scrolling="yes"></iframe>
 
-
-{% include /assets/resume_jinkehe.html code="/assets/resume_jinkehe.pdf" width=100 height=800 %}
+<!-- {% include /assets/resume_jinkehe.html code="/assets/resume_jinkehe.pdf" width=100 height=800 %} -->
 
 
