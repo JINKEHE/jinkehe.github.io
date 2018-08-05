@@ -5,8 +5,9 @@ email2: jinke.he@trinity.ox.ac.uk
 description: These violent delights have violent ends. 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://jinkehe.github.io/" # the base hostname & protocol for your site
-twitter_username: 
+twitter_username: jinke_he 
 github_username:  JINKEHE
+linkedin_username: jinke-he
 
 # Build settings
 markdown: kramdown
@@ -19,6 +20,10 @@ excerpt_separator: "<!--more-->"
 includes:
 - assets
 
+collections:
+- news
+
+future: true
 # SEO stuff
 # google_author: ""
 # google_site_verification: ""
