@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-I probably won't write anything here.
+My recent blogs.
 
 <ul class="listing">
 {% for post in site.posts %}
