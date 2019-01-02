@@ -6,4 +6,4 @@ permalink: /about/
 
 {% include image.html url="/assets/me.png" caption="" width=300 align="right" %}
 
-From October 2018, I will be a master student in Computer Science at University of Oxford. I am interested in Artificial Intelligence, especially Reinforcement Learning.
+I am a master student at Department of Computer Science, University of Oxford. Before I came to Oxford, I was an undergraduate student at Department of Computer Science, University of Liverpool. I am interested in Reinforcement Learning. 
