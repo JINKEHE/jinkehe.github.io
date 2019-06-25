@@ -6,4 +6,4 @@ permalink: /about/
 
 {% include image.html url="/assets/me.png" caption="" width=300 align="right" %}
 
-I am a master student studying Computer Science at University of Oxford. In 2018 Summer, I had a research intern at [Latent Logic](https://www.latentlogic.com). Before I came to Oxford, I was an undergraduate student at Department of Computer Science, University of Liverpool. I am interested in Reinforcement Learning and Artificial Intelligence. 
+I am reading MSc in Computer Science at University of Oxford. In 2018, I earned my bachelor's degree in Computer Science with first class honours from University of Liverpool. I have also spent time doing a research intern at [Latent Logic](https://www.latentlogic.com). I am interested in Reinforcement Learning and Artificial Intelligence. 
