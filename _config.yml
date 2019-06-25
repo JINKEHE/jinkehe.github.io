@@ -2,7 +2,7 @@
 title: Jinke He
 email: jinkehe1996@gmail.com
 email2: jinke.he@trinity.ox.ac.uk
-description: These violent delights have violent ends. 
+description: "Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world." -- Albert Einstein
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://jinkehe.github.io/" # the base hostname & protocol for your site
 twitter_username: jinke_he 
@@ -21,7 +21,7 @@ includes:
 - assets
 
 collections:
-- news
+# - news
 
 future: true
 # SEO stuff
