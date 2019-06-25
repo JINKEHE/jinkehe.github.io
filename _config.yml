@@ -1,8 +1,8 @@
 # Site settings
-title: Jinke He
+title: Jinke HeT
 email: jinkehe1996@gmail.com
 email2: jinke.he@trinity.ox.ac.uk
-description: "Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world. -- Albert Einstein"
+description: "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe. - Albert Einstein"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://jinkehe.github.io/" # the base hostname & protocol for your site
 twitter_username: jinke_he 
