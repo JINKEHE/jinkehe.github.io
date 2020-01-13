@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jinke He - Blog
+title: Blog
 permalink: /blog/
 ---
 

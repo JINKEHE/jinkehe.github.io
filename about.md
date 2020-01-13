@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jinke He - About
+title: About
 permalink: /about/
 ---
 

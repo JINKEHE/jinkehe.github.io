@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jinke He - Research
+title: Research
 permalink: /research/
 ---
 
