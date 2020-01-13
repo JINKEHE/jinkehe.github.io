@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: Jinke He - CV
 permalink: /cv/
 ---
 ## [Download Link]({{ site.url  }}/assets/resume_jinkehe.pdf)
