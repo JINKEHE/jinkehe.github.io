@@ -32,7 +32,8 @@ Conference on Uncertainty in Artificial Intelligence (**UAI**), 2020.
 
 ### Workshop
 
-Robust Ensemble Adversarial Model-Based Reinforcement Learning. Daniele Foffano, **Jinke He** and Frans A. Oliehoek.   
+Robust Ensemble Adversarial Model-Based Reinforcement Learning.   
+Daniele Foffano, **Jinke He** and Frans A. Oliehoek.   
 Adaptive and Learning Agents Workshop (**ALA**) at AAMAS, 2022.
 
 [Soft Option Transfer](https://www.skillsworkshop.ai/uploads/1/2/1/5/121527312/softoptiontransfer.pdf).   
