@@ -8,15 +8,15 @@ permalink: /research/
 
 ### Preprint
 
-[Influence-Augmented Local Simulators: A Scalable Solution for Fast Deep RL in Large Networked Systems](https://arxiv.org/abs/2202.01534).    
-Miguel Suau, **Jinke He**, Matthijs TJ Spaan, Frans A Oliehoek.     
-arXiv:2202.01534 (**under review**), 2022.
-
 [Influence-aware Memory Architectures for Deep Reinforcement Learning](https://arxiv.org/abs/1911.07643).   
 Miguel Suau, **Jinke He**, Elena Congeduti, Rolf A.N. Starre, Aleksander Czechowski, Frans A. Oliehoek.   
 arXiv:1911.07643, 2019.
 
 ### Conference
+
+[Influence-Augmented Local Simulators: A Scalable Solution for Fast Deep RL in Large Networked Systems](https://arxiv.org/abs/2202.01534).    
+Miguel Suau, **Jinke He**, Matthijs TJ Spaan, Frans A Oliehoek.     
+International Conference on Machine Learning  (**ICML**), 2022.
 
 [Online Planning in POMDPs with Self-Improving Simulator](https://arxiv.org/abs/2201.11404).  
 **Jinke He**, Miguel Suau, Hendrik Baier, Michael Kaisers, and Frans A. Oliehoek.   
