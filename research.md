@@ -6,11 +6,11 @@ permalink: /research/
 
 ## Publications
 
-### Preprint
+### Journal
 
-[Influence-aware Memory Architectures for Deep Reinforcement Learning](https://arxiv.org/abs/1911.07643).   
+[Influence-aware memory architectures for deep reinforcement learning in POMDPs](https://link.springer.com/article/10.1007/s00521-022-07691-7).   
 Miguel Suau, **Jinke He**, Elena Congeduti, Rolf A.N. Starre, Aleksander Czechowski, Frans A. Oliehoek.   
-arXiv:1911.07643, 2019.
+Neural Computing and Applications, 2022.
 
 ### Conference
 
